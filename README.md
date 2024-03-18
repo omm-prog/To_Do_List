@@ -13,7 +13,7 @@ A simple web-based ToDo List application built with HTML, CSS, and JavaScript. T
 
 ## Demo
 
-You can try the application live [here](<link-to-live-demo>).
+You can try the application live [here](<https://65f8a0825dba5815c3f8f2d7--starlit-otter-4ac44c.netlify.app/>).
 
 ## Getting Started
 
