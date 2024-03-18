@@ -2,7 +2,7 @@
 
 A simple web-based ToDo List application built with HTML, CSS, and JavaScript. This application allows users to add, remove, and mark tasks as completed.
 
-![ToDo List Screenshot](screenshot.png)
+
 
 ## Features
 
